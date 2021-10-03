@@ -3,9 +3,10 @@
 1. a web application that can enter book data into shelves, move book data between shelves, and delete book data from shelves.
 2. to record reading activity
 
-## Getting Started
+## Demo App
+https://project-bookshelf-app.netlify.app/
 
-### Dependencies
+## Dependencies
 
 * HTML, CSS, JAVASCRIPT
 
